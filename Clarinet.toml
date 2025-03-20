@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/cultural-site-protection.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.land-parcel-registration]
+path = 'contracts/land-parcel-registration.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
