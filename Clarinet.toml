@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/community-benefit.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.cultural-site-protection]
+path = 'contracts/cultural-site-protection.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
